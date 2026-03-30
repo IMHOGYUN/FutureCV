@@ -1,6 +1,6 @@
 # Future CV: 데이터로 혁신을 이끄는 AI 데이터 사이언티스트
 
-## 간략한 자기소개 (희망 직무 포함)
+## 간략한 자기소개
 - **이름:** 임호균
 - **이메일:** [dlaghrbs01@naver.com](mailto:dlaghrbs01@naver.com)
 - **GitHub:** [IMHOGYUN](https://github.com/IMHOGYUN)
